@@ -1,6 +1,6 @@
 # Hey there ![image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Andrei!
 
-I am a passionate coder with strong knowledge in Javascript, Python, HTML/CSS, and PSQL. With background as a QA Analyst in automation, I developed strong attention to detail and have worked heavily in numerous methodologies closely with Bell developers. I have learned to add Kubernetes and Docker as part of my workflow as a QA Analyst and look to bring that forward and continue adding to my skillset as a software developer. When I am not coding, I am out riding my motorcycle (weather permitting) and playing board games and video games. I am eager to grow and improve as a developer and to stay up to date with the latest technologies.
+I am a passionate coder with strong knowledge in Javascript, Python, HTML/CSS, and PSQL. With background as a QA Analyst in automation, I developed strong attention to detail and have worked heavily in numerous methodologies closely with Bell developers. I started coding in automation using selenium and python to add to my workflow as a QA Analyst and look to bring that forward and continue adding to my skillset as a software developer. When I am not coding, I am out riding my motorcycle (weather permitting), playing board games, and 3d printing. I am eager to grow and improve as a developer and to stay up to date with the latest technologies.
 
 I am currently learning MongoDB and re-visiting C#.
 
