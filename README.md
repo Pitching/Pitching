@@ -1,8 +1,8 @@
 # Hey there ![image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Andrei!
 
-I am a passionate coder with strong knowledge in Javascript, Python, HTML/CSS, and PSQL. With background as a QA Analyst in automation, I developed strong attention to detail and have worked heavily in numerous methodologies closely with Bell developers. I started coding in automation using selenium and python to add to my workflow as a QA Analyst and look to bring that forward and continue adding to my skillset as a software developer. When I am not coding, I am out riding my motorcycle (weather permitting), playing board games, and 3d printing. I am eager to grow and improve as a developer and to stay up to date with the latest technologies.
+I am a passionate coder with strong knowledge in Javascript, HTML/CSS, and SQL. With background as a QA Engineer with Cypress and Selenium, I developed strong attention to detail and have worked heavily in numerous methodologies closely with Bell developers. I started coding in automation using Selenium and Java and transitioned to Cypress and Javascript to add to my workflow as a QA Analyst and look to bring that forward and continue adding to my skillset as a software developer. When I am not coding, I am out riding my motorcycle (weather permitting), playing board games, and 3d printing. I am eager to grow and improve as a developer and to stay up to date with the latest technologies.
 
-I am currently learning MongoDB and re-visiting C#.
+I am currently learning MongoDB and re-visiting Java.
 
 # Skills
 
@@ -12,7 +12,6 @@ I am currently learning MongoDB and re-visiting C#.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;"></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="max-width: 100%;"></a>
-<a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%;"></a>
 <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" style="max-width: 100%;"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" width="36" height="36" alt="CSS3" style="max-width: 100%;"></a>
 
